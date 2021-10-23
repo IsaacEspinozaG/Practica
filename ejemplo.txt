@@ -1,1 +1,2 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#!/bin/bash
+En mi opinion creo que me falta un poco mas de practica con el Github ya que tarde mas de lo que pense haciendo esta practica
