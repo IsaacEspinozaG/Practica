@@ -1,5 +1,5 @@
-@echo off
-echo.
-echo Numero de Serie: 18330428
-echo.
-pause
+#!/bin/bash
+for ((VAR=0 ; VAR<7 ; VAR++ ))
+do
+   echo $VAR
+done
